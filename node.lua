@@ -3,7 +3,7 @@ hosted_init() -- initialize automated config reloading
 gl.setup(1920,1080)
 
 util.resource_loader {
-	"Arial Bold.tff"
+	"Arial Bold.ttf"
 }
 
 function node.render()
